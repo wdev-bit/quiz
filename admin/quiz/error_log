@@ -1,0 +1,13 @@
+[19-Nov-2020 18:54:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/admin/quiz/edit_r.php on line 95
+[19-Nov-2020 18:54:19 UTC] PHP Notice:  Undefined index: title in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/admin/quiz/edit_r.php on line 8
+[19-Nov-2020 18:54:19 UTC] PHP Notice:  Undefined index: title in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/admin/quiz/edit_r.php on line 11
+[19-Nov-2020 18:54:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/admin/quiz/edit_r.php on line 95
+[19-Nov-2020 18:54:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/admin/quiz/edit_r.php on line 95
+[19-Nov-2020 23:57:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/admin/quiz/edit_r.php on line 95
+[20-Nov-2020 00:00:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/admin/quiz/edit_r.php on line 95
+[20-Nov-2020 00:00:40 UTC] PHP Notice:  Undefined index: title in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/admin/quiz/edit_r.php on line 8
+[20-Nov-2020 00:00:40 UTC] PHP Notice:  Undefined index: title in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/admin/quiz/edit_r.php on line 11
+[20-Nov-2020 00:00:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/admin/quiz/edit_r.php on line 95
+[20-Nov-2020 00:00:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/admin/quiz/edit_r.php on line 95
+[20-Nov-2020 00:04:10 UTC] PHP Notice:  Undefined index: id in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/admin/quiz/create.php on line 7
+[20-Nov-2020 00:04:28 UTC] PHP Notice:  Undefined index: id in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/admin/quiz/create.php on line 7
